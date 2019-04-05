@@ -1,0 +1,6 @@
+start "" "C:\Program Files\Mozilla Firefox\firefox.exe"
+start "" "C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"
+start "" "C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE"
+start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"
+start "" "C:\Program Files (x86)\Notepad++\notepad++.exe"
+start "" "C:\Program Files (x86)\Spark\Spark.exe"
